@@ -1,0 +1,30 @@
+Oct 23, 2024 11:42:39 PM TransactionLogger logBalanceInquiry
+INFO: 2024-10-23 23:42:39 - Daniel G made a balance inquiry on Checking-1084. Daniel G's Balance for Checking-1084: $1930.60
+Oct 23, 2024 11:44:28 PM TransactionLogger logBalanceInquiry
+INFO: 2024-10-23 23:44:28 - Daniel G made a balance inquiry on Saving-2084. Daniel G's Balance for Saving-2084: $3788.92
+Oct 23, 2024 11:45:32 PM TransactionLogger logDeposit
+INFO: 2024-10-23 23:45:32 - Daniel G deposited $100.00 to Saving-2084. New Balance: $3888.92
+Oct 24, 2024 12:14:14 AM TransactionLogger logDeposit
+INFO: 2024-10-24 00:14:14 - Brandon Bustamante deposited $2000.00 to Saving-2043. New Balance: $5764.74
+Oct 24, 2024 8:10:05 PM TransactionLogger logDeposit
+INFO: 2024-10-24 20:10:05 - Evil Queen deposited $3.00 to Checking-1028. New Balance: $241.09
+Oct 24, 2024 8:10:44 PM TransactionLogger logWithdrawal
+INFO: 2024-10-24 20:10:44 - Alfredo Rodriguez withdrew $500.00 from Saving-2039. New Balance: $2943.94
+Oct 24, 2024 8:10:44 PM TransactionLogger logDeposit
+INFO: 2024-10-24 20:10:44 - Manuel Ruvalcaba deposited $500.00 to Checking-1067. New Balance: $1370.60
+Oct 24, 2024 8:14:33 PM TransactionLogger logBalanceInquiry
+INFO: 2024-10-24 20:14:33 - Arae Zarzosa made a balance inquiry on Checking-1042. Arae Zarzosa's Balance for Checking-1042: $1994.56
+Oct 24, 2024 8:14:51 PM TransactionLogger logDeposit
+INFO: 2024-10-24 20:14:51 - Arae Zarzosa deposited $1000.00 to Checking-1042. New Balance: $2994.56
+Oct 29, 2024 9:22:00 PM TransactionLogger logWithdrawal
+INFO: 2024-10-29 21:22:00 - Peter Pan withdrew $40.00 from Checking-1014. New Balance: $1.62
+Oct 29, 2024 9:24:34 PM TransactionLogger logDeposit
+INFO: 2024-10-29 21:24:34 - Peter Pan deposited $500.00 to Checking-1014. New Balance: $501.62
+Oct 30, 2024 1:27:31 PM TransactionLogger logBalanceInquiry
+INFO: 2024-10-30 13:27:31 - Daniel G made a balance inquiry on Checking-1084. Daniel G's Balance for Checking-1084: $1930.60
+Oct 30, 2024 1:27:47 PM TransactionLogger logDeposit
+INFO: 2024-10-30 13:27:47 - Daniel G deposited $200.00 to Checking-1084. New Balance: $2130.60
+Oct 30, 2024 1:28:00 PM TransactionLogger logBalanceInquiry
+INFO: 2024-10-30 13:28:00 - Daniel G made a balance inquiry on Checking-1084. Daniel G's Balance for Checking-1084: $2130.60
+Oct 30, 2024 1:28:17 PM TransactionLogger logWithdrawal
+INFO: 2024-10-30 13:28:17 - Daniel G withdrew $200.00 from Checking-1084. New Balance: $1930.60
