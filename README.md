@@ -1,4 +1,4 @@
-El Paso Miners Bank
+#El Paso Miners Bank
 
 A simple banking system built using Java as part of the course Advanced Object_Oriented Developed by **Romelia Acosta** and **Jesus Muñoz**.
 
